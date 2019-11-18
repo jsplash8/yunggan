@@ -20,3 +20,29 @@
 .App-link {
   color: #09d3ac;
 }
+
+.TextBPM {
+  position: absolute;
+    top: 525px;
+    left: 180px;
+}
+
+.TextGenre {
+  position: absolute;
+    top: 525px;
+    left: 490px;
+}
+
+.TextSubGenre {
+  position: absolute;
+    top: 525px;
+    left: 820px;
+}
+
+.GenerateButton {
+  position: absolute;
+    top: 620px;
+    left: 505px;
+    width: 100%;
+    display: block;
+}
