@@ -1,10 +1,9 @@
 ## Yung Gan
 ### Authors: Alex Richardson & Joshua Patterson
-A Generative Adversarial Network that trains modules to create music instrumentals. Consists of a
-library of 10,000 soundcloud/youtube instruments, which are used to train the network. Created
+A Generative Adversarial Network that trains models to generate AI constructed music instrumentals. Consists 
+of a library of 10,000 soundcloud/youtube instruments, which are used to train the network. Created
 using tensorflow and keras, a deep learning python library. Front-End is created using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
