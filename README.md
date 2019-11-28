@@ -4,7 +4,7 @@ A Generative Adversarial Network that trains models to generate AI constructed m
 of a library of 10,000 soundcloud/youtube instruments, which are used to train the network. Created
 using tensorflow and keras, a deep learning python library. Front-End is created using React.
 
-![yungganposter][yungganposter.png]
+![yungganposter](yungganposter.png)
 
 ## Available Scripts
 
